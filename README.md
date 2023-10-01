@@ -7,8 +7,11 @@
 
   <br>
   
-  <img align="right" alt="GIF" src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://giphy.com/gifs/tmnt-teenage-mutant-ninja-turtles-cFdHXXm5GhJsc)"/> 
+  <img align="right" alt="GIF" src="https://64.media.tumblr.com/7e71f3316e44417e20e10ea3620c6a76/tumblr_my8dm6J64M1ro8ysbo1_500.gifv"/> 
 </div>
+
+<br>
+
 ## Connect with me
 <!-- Links and clickable logos -->
 <div>
